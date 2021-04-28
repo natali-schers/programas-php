@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Exercício 3</title>
+    <title>Exercício 3 - PHP</title>
 </head>
 <body>
 
