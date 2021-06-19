@@ -6,7 +6,6 @@ function login($user="root", $key="123") {
     echo "key = " . $key;
 }
 
-//login();
-login("Natali", "123456");
+login("Natali", "123");
 
 ?>
